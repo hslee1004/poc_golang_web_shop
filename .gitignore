@@ -1,0 +1,7 @@
+lastupdate.tmp
+*.exe
+bin
+doc
+pkg
+src/jupiterapi
+src/github.com

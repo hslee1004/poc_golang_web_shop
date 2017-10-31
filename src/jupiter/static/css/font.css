@@ -1,0 +1,20 @@
+@font-face {
+  font-family: 'KlavikaNX Regular';
+  src: url("../fonts/KlavikaNX/klavikanx-regular.eot");
+  src: url("../fonts/KlavikaNX/klavikanx-regular.eot?#iefix") format("embedded-opentype"), url("../fonts/KlavikaNX/klavikanx-regular.woff") format("woff"), url("../fonts/KlavikaNX/klavikanx-regular.ttf") format("truetype"), url("../fonts/KlavikaNX/klavikanx-regular.svg#webfont") format("svg");
+}
+@font-face {
+  font-family: 'KlavikaNX Light';
+  src: url("../fonts/KlavikaNX/klavikanx-light.eot");
+  src: url("../fonts/KlavikaNX/klavikanx-light.eot?#iefix") format("embedded-opentype"), url("../fonts/KlavikaNX/klavikanx-light.woff") format("woff"), url("../fonts/KlavikaNX/klavikanx-light.ttf") format("truetype"), url("../fonts/KlavikaNX/klavikanx-light.svg#webfont") format("svg");
+}
+@font-face {
+  font-family: 'KlavikaNX Medium';
+  src: url("../fonts/KlavikaNX/klavikanx-medium.eot");
+  src: url("../fonts/KlavikaNX/klavikanx-medium.eot?#iefix") format("embedded-opentype"), url("../fonts/KlavikaNX/klavikanx-medium.woff") format("woff"), url("../fonts/KlavikaNX/klavikanx-medium.ttf") format("truetype"), url("../fonts/KlavikaNX/klavikanx-medium.svg#webfont") format("svg");
+}
+@font-face {
+  font-family: 'KlavikaNX Bold';
+  src: url("../fonts/KlavikaNX/klavikanx-bold.eot");
+  src: url("../fonts/KlavikaNX/klavikanx-bold.eot?#iefix") format("embedded-opentype"), url("../fonts/KlavikaNX/klavikanx-bold.woff") format("woff"), url("../fonts/KlavikaNX/klavikanx-bold.ttf") format("truetype"), url("../fonts/KlavikaNX/klavikanx-bold.svg#webfont") format("svg");
+}
